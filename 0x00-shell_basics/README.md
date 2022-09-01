@@ -1,1 +1,1 @@
-ls -la
+is -al
